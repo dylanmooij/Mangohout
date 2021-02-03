@@ -1,0 +1,51 @@
+    <div class="inputs">
+        <form method="get" class="woocommerce-form woocommerce-form-track-order track_order">
+        <p>Vul je ordernummer en e-mail adres in en klik op de "Zoeken" knop om actuele bestelstatus te volgen. Het ordernummer kun je vinden op je ontvangstbewijs en in de bevestigings-e-mail.</p>
+        <p class="form-row form-row-first"><label for="orderid">Ordernummer</label> <input class="input-text" type="number" min="0" max="999999" name="order" id="order" value="" placeholder=""></p> <p class="form-row form-row-last"><label for="order_email">E-mailadres</label> <input class="input-text" type="email" name="email" id="order_email" value="" placeholder=""></p> <div class="clear"></div>
+        <p class="form-row"><input type="submit" class="single_add_to_cart_button" value="Zoeken" /></p>
+        </form>
+    </div>
+
+    <div class="vc_row wpb_row vc_row-fluid vc_custom_1591269405285"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1497899693264"><div class="wpb_wrapper"> <div class="info-box-wrapper ">
+    <div id="wd-5ed8dfec6b367" class=" woodmart-info-box text-center box-icon-align-top box-style- color-scheme- woodmart-bg-none box-title-default ">
+    <div class="box-icon-wrapper  box-with-icon box-icon-simple">
+    <div class="info-box-icon">
+    <div class="info-svg-wrapper info-icon" style="width: 120px;height: 120px;"><svg xmlns="http://www.w3.org/2000/svg" id="svg-6109" height="512" viewBox="0 0 512 512" width="512"><g><path d="m467 512h-300c-24.813 0-45-20.187-45-45v-360c0-24.813 20.187-45 45-45l150 40 150-40c24.813 0 45 20.187 45 45v360c0 24.813-20.187 45-45 45z" fill="#ffe278"></path><path d="m467 62-150 40v410h150c24.813 0 45-20.187 45-45v-360c0-24.813-20.187-45-45-45z" fill="#ffc178"></path><path d="m382 467h-200c-8.284 0-15-6.716-15-15v-390h300v319.999c0 3.978-1.58 7.794-4.394 10.607l-70 70c-2.813 2.814-6.628 4.394-10.606 4.394z" fill="#f1f4f6"></path><path d="m317 62v405h65c3.978 0 7.794-1.58 10.607-4.394l70-70c2.813-2.813 4.394-6.629 4.394-10.607v-319.999z" fill="#e2e2ea"></path><path d="m317 397h-60c-8.284 0-15-6.716-15-15s6.716-15 15-15h60c8.284 0 15 6.716 15 15s-6.716 15-15 15z" fill="#0a617d"></path><path d="m392 377c-8.284 0-15 6.716-15 15v75h5c3.978 0 7.793-1.581 10.606-4.394l70-70c2.813-2.813 4.394-6.628 4.394-10.606v-5z" fill="#e2e2ea"></path><path d="m387 117h-140c-8.284 0-15-6.716-15-15v-35c0-6.883 4.685-12.883 11.362-14.552l28.638-7.159v-30.289c0-8.284 6.716-15 15-15h60c8.284 0 15 6.716 15 15v30.289l28.638 7.159c6.677 1.669 11.362 7.669 11.362 14.552v35c0 8.284-6.716 15-15 15z" fill="#0a617d"></path><path d="m377 327h-120c-8.284 0-15-6.716-15-15v-120c0-8.284 6.716-15 15-15h120c8.284 0 15 6.716 15 15v120c0 8.284-6.716 15-15 15z" fill="#f2ba23"></path><path d="m377 177h-60v150h60c8.284 0 15-6.716 15-15v-120c0-8.284-6.716-15-15-15z" fill="#d89d1e"></path><path d="m302 177v45c0 8.284 6.716 15 15 15s15-6.716 15-15v-45z" fill="#0a617d"></path><path d="m317 237c8.284 0 15-6.716 15-15v-45h-15z" fill="#08475e"></path><path d="m317 367v30c8.284 0 15-6.716 15-15s-6.716-15-15-15z" fill="#08475e"></path><path d="m392 377c-8.284 0-15 6.716-15 15v75h5c3.978 0 7.793-1.581 10.606-4.394l70-70c2.813-2.813 4.394-6.628 4.394-10.606v-5z" fill="#c6d0da"></path><path d="m377 327h-120c-8.284 0-15-6.716-15-15v-120c0-8.284 6.716-15 15-15h120c8.284 0 15 6.716 15 15v120c0 8.284-6.716 15-15 15z" fill="#f2ba23"></path><path d="m377 177h-60v150h60c8.284 0 15-6.716 15-15v-120c0-8.284-6.716-15-15-15z" fill="#d89d1e"></path><path d="m302 177v45c0 8.284 6.716 15 15 15s15-6.716 15-15v-45z" fill="#c48119"></path><path d="m317 237c8.284 0 15-6.716 15-15v-45h-15z" fill="#936113"></path><path d="m390.638 52.448-28.638-7.159v-30.289c0-8.284-6.716-15-15-15h-30v117h70c8.284 0 15-6.716 15-15v-35c0-6.883-4.685-12.883-11.362-14.552z" fill="#08475e"></path><g><g><path d="m35 127c-8.284 0-15-6.716-15-15v-30c0-8.284 6.716-15 15-15s15 6.716 15 15v30c0 8.284-6.716 15-15 15z" fill="#f1f4f6"></path></g><path d="m50 112v-30c0-8.284-6.716-15-15-15v60c8.284 0 15-6.716 15-15z" fill="#e2e2ea"></path><g><path d="m35 492c-6.697 0-12.583-4.439-14.423-10.879l-20-70c-1.293-4.525-.387-9.396 2.448-13.153 2.834-3.758 7.268-5.968 11.975-5.968h40c4.707 0 9.141 2.209 11.975 5.967 2.834 3.757 3.741 8.628 2.448 13.153l-20 70c-1.84 6.441-7.726 10.88-14.423 10.88z" fill="#f1f4f6"></path></g><path d="m55 392h-20v100c6.697 0 12.583-4.439 14.423-10.879l20-70c1.293-4.525.387-9.396-2.448-13.153-2.834-3.758-7.268-5.968-11.975-5.968z" fill="#e2e2ea"></path><g><path d="m0 122v65c0 8.284 6.716 15 15 15h40c8.284 0 15-6.716 15-15v-65c0-8.284-6.716-15-15-15h-40c-8.284 0-15 6.716-15 15z" fill="#0a617d"></path></g><g><path d="m55 107h-20v95h20c8.284 0 15-6.716 15-15v-65c0-8.284-6.716-15-15-15z" fill="#08475e"></path></g><path d="m0 187v220c0 .128.016.252.019.38h69.962c.003-.128.019-.252.019-.38v-220z" fill="#a4e6f8"></path><g><path d="m35 187v220.38h34.981c.003-.128.019-.252.019-.38v-220z" fill="#6ed2f0"></path></g><path d="m20 481.121v15.879c0 8.284 6.716 15 15 15s15-6.716 15-15v-15.879z" fill="#0a617d"></path><path d="m20 479.101v15.412c0 9.658 6.716 17.487 15 17.487s15-7.829 15-17.487v-15.412z" fill="#0a617d"></path><g><path d="m50 497v-17.899h-15v32.899c8.284 0 15-6.716 15-15z" fill="#08475e"></path></g></g></g></svg> </div>
+    </div>
+    </div>
+    <div class="info-box-content">
+    <div class="info-box-subtitle subtitle-color-primary subtitle-style-default woodmart-font-weight-"><strong>STAP 1</strong></div><h4 class="info-box-title woodmart-font-weight- box-title-style-default">Vul je ordernummer in</h4> <div class="info-box-inner reset-mb-10">
+    <p>Het ordernummer wordt in de mail van bestelling weergegeven.</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1497899686135"><div class="wpb_wrapper"> <div class="info-box-wrapper ">
+    <div id="wd-5ed8e05133d11" class=" woodmart-info-box text-center box-icon-align-top box-style- color-scheme- woodmart-bg-none box-title-default ">
+    <div class="box-icon-wrapper  box-with-icon box-icon-simple">
+    <div class="info-box-icon">
+    <div class="info-svg-wrapper info-icon" style="width: 120px;height: 120px;"><svg xmlns="http://www.w3.org/2000/svg" id="svg-7937" height="512" viewBox="0 0 512 512" width="512"><g><path d="m512 201.14-15 190.61h-482l-15-190.61 85.33-60.95h341.34z" fill="#feb920"></path><path d="m512 201.14-15 190.61h-241v-251.56h170.67z" fill="#fc9b28"></path><path d="m85.33 18.29h341.34v383.99h-341.34z" fill="#e6f3ff"></path><path d="m256 18.29h170.67v383.99h-170.67z" fill="#bbe4f2"></path><g fill="#393e9f"><path d="m146.287 76.431h109.713v30h-109.713z"></path><path d="m146.29 149.57h219.42v30h-219.42z"></path><path d="m146.29 222.71h219.42v30h-219.42z"></path></g><path d="m256 149.57h109.71v30h-109.71z" fill="#340d66"></path><path d="m256 222.71h109.71v30h-109.71z" fill="#340d66"></path><path d="m512 201.14v292.57l-256-23.78-256 23.78v-292.57l204.8 146.29h102.4z" fill="#ffcf67"></path><path d="m512 201.14v292.57l-256-23.78v-122.5h51.2z" fill="#feb920"></path><path d="m512 493.71h-512l256-182.85z" fill="#feb920"></path><path d="m512 493.71h-256v-182.85z" fill="#fc9b28"></path></g></svg> </div>
+    </div>
+    </div>
+    <div class="info-box-content">
+    <div class="info-box-subtitle subtitle-color-primary subtitle-style-default woodmart-font-weight-"><strong>STAP 2</strong></div><h4 class="info-box-title woodmart-font-weight- box-title-style-default">Vul je e-mail adres in</h4> <div class="info-box-inner reset-mb-10">
+    <p>Vul het e-mail adres in dat je gebruikt hebt voor de bestelling.</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1497899679300"><div class="wpb_wrapper"> <div class="info-box-wrapper ">
+    <div id="wd-5ed96a78a2ec4" class=" woodmart-info-box text-center box-icon-align-top box-style- color-scheme- woodmart-bg-none box-title-default ">
+    <div class="box-icon-wrapper  box-with-icon box-icon-simple">
+    <div class="info-box-icon">
+    <div class="info-svg-wrapper info-icon" style="width: 120px;height: 120px;"><svg id="svg-3047" xmlns="http://www.w3.org/2000/svg" height="467pt" viewBox="-63 0 467 467.66" width="467pt"><path d="m280.070312 227.789062c0-17.878906 13.53125-32.367187 30.21875-32.367187h.671876c16.660156 0 30.179687 14.429687 30.21875 32.277344.140624 58.390625.050781 64.121093-.03125 151.332031-.046876 48.96875-37.117188 88.628906-82.828126 88.628906h-98.140624c-30.03125 0-57.71875-17.421875-72.351563-45.519531l-87.5-168.109375 9.140625-7.582031c18.929688-17.398438 47.402344-15.257813 63.871094 4.789062l24.488281 29.8125.140625-205.089843c.011719-17.871094 13.542969-32.351563 30.222656-32.351563h.007813c16.691406 0 30.222656 14.5 30.222656 32.378906v124.121094c.398437-17.5 13.769531-31.53125 30.199219-31.53125h.707031c16.691406 0 30.222656 14.492187 30.222656 32.371094v10.421875c0-17.882813 13.527344-32.371094 30.230469-32.371094h.070312c16.6875 0 30.21875 14.488281 30.21875 32.371094zm0 0" fill="#f7caa5"></path><path d="m128.089844 0c-39.4375.0429688-71.394532 32.003906-71.441406 71.441406 0 4.417969 3.582031 8 8 8 4.417968 0 8-3.582031 8-8 0-30.621094 24.824218-55.441406 55.441406-55.441406 30.617187 0 55.441406 24.820312 55.441406 55.441406 0 4.417969 3.582031 8 8 8s8-3.582031 8-8c-.046875-39.4375-32.003906-71.3984372-71.441406-71.441406zm0 0" fill="#fedb41"></path></svg> </div>
+    </div>
+    </div>
+    <div class="info-box-content">
+    <div class="info-box-subtitle subtitle-color-primary subtitle-style-default woodmart-font-weight-"><strong>STAP 3</strong></div><h4 class="info-box-title woodmart-font-weight- box-title-style-default">Druk op zoeken</h4> <div class="info-box-inner reset-mb-10">
+    <p>Je bestelgegevens worden opgehaald.</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div></div></div></div>
